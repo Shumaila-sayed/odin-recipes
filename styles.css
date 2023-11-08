@@ -1,8 +1,36 @@
 * {
     font-family: Verdana, Arial, sans-serif ;
+    padding: 4px;
+
 }
 
 h1 {
-    color: red;
-    background-color: wheat;
+    color: rgb(255, 0, 119);
+    background-color: #ffe4c4;
+    text-align: center;
+}
+
+a {
+    color: lightblue;
+    text-decoration: none;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+    margin-left: 380px;
+}
+
+h2 {
+    background-color: whitesmoke;
+    font-size: 25px;
+}
+
+h3 {
+    background: whitesmoke;
+    
+}
+
+li {
+    margin-left: 10px;
 }
