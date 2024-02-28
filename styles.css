@@ -1,17 +1,18 @@
 * {
     font-family: Verdana, Arial, sans-serif ;
     padding: 4px;
+    background-color: darkslategray;
 
 }
 
 h1 {
-    color: rgb(255, 0, 119);
-    background-color: #ffe4c4;
+    color: rgb(224, 18, 52);
+    background-color: #dac8b2;
     text-align: center;
 }
 
 a {
-    color: lightblue;
+    color: rgb(233, 105, 66);
     text-decoration: none;
 }
 
@@ -22,13 +23,20 @@ img {
 }
 
 h2 {
-    background-color: whitesmoke;
+    background-color: beige;
     font-size: 25px;
+    width: 140px;
+
 }
 
 h3 {
-    background: whitesmoke;
+    background: beige;
+    width: 100px;
     
+}
+
+.step {
+    width: 55px;
 }
 
 li {
